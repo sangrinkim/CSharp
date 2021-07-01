@@ -3,7 +3,7 @@
         1. (In .Net Framework case)Add a new project > Unit Test Project (.NET Framework)
         2. Add References > Select the project that contains the code you'll test
         3. Make test code as follows:
-``` C#
+``` csharp
     [TestClass]
     public class UnitTest1
     {
