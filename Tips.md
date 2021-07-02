@@ -1,6 +1,7 @@
 * [Get started with unit testing](https://docs.microsoft.com/en-us/visualstudio/test/getting-started-with-unit-testing?view=vs-2019&tabs=xunit)
 
         1. (In .Net Framework case)Add a new project > Unit Test Project (.NET Framework)
+            * An easy way to create unit test project(Only for C#) : Choose "Create Unit Tests" from right-click menu.
         2. Add References > Select the project that contains the code you'll test
         3. Make test code as follows:
 ``` csharp
